@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable IIS
 - PHP Manager
-- Rewrite Module
+- Rewrite Module 
 - PHP 7.3.8 folder
 - osTicket folder
 
