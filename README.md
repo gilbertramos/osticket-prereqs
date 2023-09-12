@@ -46,6 +46,6 @@ Download and install PHP Manger Module and Rewirte Module.  Go to the C Drive, a
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open the IIS as an Admin, this will open up the IIS Manager window.  Then doulbe click on PHP Manager.  Next click on "Register new PHP versions", browse to PHP on C drive then click on "php-cgi".  Click on the name of the server, then click on "Restart" on the upper right of the window. 
+ 
 </p>
 <br />
