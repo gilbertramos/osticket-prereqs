@@ -38,7 +38,7 @@ Begin by installing IIS.  Type in "run" in search bar of Windows, then enter "co
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and install PHP Manger Module and Rewirte Module.  Go to the C Drive, and a create a new folder named PHP.  Download the PHP zip folder and extract into the PHP folder on the C Drive. Then download and install the VC_redist.exe folder.  Next download the mysql-5.5.62-win32.msi folder, and create a username and password during the install.
+Download and install PHP Manger Module and Rewirte Module.  Go to the C Drive, and a create a new folder named PHP.  Download the PHP zip folder and extract into the PHP folder on the C Drive. Then download and install the VC_redist.exe folder.  Next download the mysql-5.5.62-win32.msi folder, and create a username and password during the install.  Open the IIS as an Admin, this will open up the IIS Manager window.  Then doulbe click on PHP Manager.  Next click on "Register new PHP versions", browse to PHP on C drive then click on "php-cgi".  Click on the name of the server, then click on "Restart" on the upper right of the window. 
 </p>
 <br />
 
@@ -47,13 +47,5 @@ Download and install PHP Manger Module and Rewirte Module.  Go to the C Drive, a
 </p>
 <p>
 Open the IIS as an Admin, this will open up the IIS Manager window.  Then doulbe click on PHP Manager.  Next click on "Register new PHP versions", browse to PHP on C drive then click on "php-cgi".  Click on the name of the server, then click on "Restart" on the upper right of the window. 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
 </p>
 <br />
