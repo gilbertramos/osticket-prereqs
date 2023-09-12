@@ -20,9 +20,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable IIS
 - PHP Manager
-- Item 3
 - Rewrite Module
-- PHP 7.3.8
+- PHP 7.3.8 folder
+- osTicket folder
 
 <h2>Installation Steps</h2>
 
@@ -46,6 +46,14 @@ Download and install PHP Manger Module and Rewirte Module.  Go to the C Drive, a
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open the IIS as an Admin, this will open up the IIS Manager window.  Then doulbe click on PHP Manager.  Next click on "Register new PHP versions", browse to PHP on C drive then click on "php-cgi".  Click on the name of the server, then click on "Restart" on the upper right of the window. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 </p>
 <br />
