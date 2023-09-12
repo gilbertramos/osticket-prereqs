@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP Manager
 - Item 3
 - Rewrite Module
-- Create directory C:PHP
+- PHP 7.3.8
 
 <h2>Installation Steps</h2>
 
@@ -38,7 +38,7 @@ Begin by installing IIS.  Type in "run" in search bar of Windows, then enter "co
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install PHP Manger Module and Rewirte Module.  Go to the C Drive, and a create a new folder named PHP.  Download the PHP zip folder and extract into the PHP folder on the C Drive. Then download and install the VC_redist.x86.exe folder.  Next download the mysql-5.5.62-win32.msi folder, and create a username and password.
 </p>
 <br />
 
