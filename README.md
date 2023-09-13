@@ -23,6 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Rewrite Module 
 - PHP 7.3.8 folder
 - osTicket folder
+- Heidi SQL
 
 <h2>Installation Steps</h2>
 
@@ -46,6 +47,6 @@ Download and install PHP Manger Module and Rewirte Module.  Go to the C Drive, a
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- 
+ Download osTicket folder.  Extract and copy “upload” folder to c:\inetpub\wwwroot, then Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.  Reload IIS again.  Go back to IIS, sites to Default to osTicket.  Double click the PHP Manager.  Then click "Enable or disable an extension" where you will click on "php_imap.dll", "php_intl.dll", "php_opcache.dll", and refresh the osticket website to see the changes.  Now rename ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to: C:\inetpub\wwwroot\osTicket\include\ost-config.php.  To assign premissions right click ost-config.php, goto properities, click on security, click on advanded, click on disable inheritance, finally click on remove all permissions.  Now click on the Add button, click on "Select principal", type in "Everyone" in the box then click "OK" then click "Full Control". Goto osTicket website, setup Help desk name, default email.  Download Heidi SQL, open file and install.  Open Heidi then click on "New", enter same user name and password from osTicket website, now click "Open".
 </p>
 <br />
