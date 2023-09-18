@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="821" alt="Screenshot 2023-09-14 101459" src="https://github.com/gilbertramos/osticket-prereqs/assets/140354494/8e961174-276a-4995-b879-fb4afe5f25d6">
 </p>
 <p>
 Begin by installing IIS.  Type in "run" in search bar of Windows, then enter "control".  Click on programs then Turn Windows features on or off.  Turn on folders "CGI", "Common HTTP Features".  Check and expand Internet Information Services.  Expand World Wide Web Services, then expand into Application Development Features.  Finally check the box next to CGI.  Go back to Common HTTP Features folder then expand it.  Check all boxes underneath Common HTTP Features.  This will install the IIS web server.
