@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Rewrite Module 
 - PHP 7.3.8 folder
 - osTicket folder
-- Heidi SQL
+- Heidi SQL 
 
 <h2>Installation Steps</h2>
 
